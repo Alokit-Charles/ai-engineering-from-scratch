@@ -68,3 +68,8 @@ book/_build/
 # Added by cargo
 
 /target
+
+##
+git_key
+git_key.pub
+config
